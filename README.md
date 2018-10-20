@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop 3
 
 In this workshop we will be taking a quick look at building a DApp, and then we will let you take over and build one yourself. 
 
